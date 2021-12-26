@@ -3,6 +3,8 @@ OB_Template is a vault template reference for using <a href="https://obsidian.md
 
 If you've tested out <a href="https://obsidian.md/">Obsidian.</a> and worked through the "Obsidian Help" folder, you might be looking for practical strategies to apply associative notes in your daily work.
 
+# For any queryes please head to the Obsidian forum and check the template thread. <a href="https://forum.obsidian.md/t/obsidian-notes-template/28940">OB_Template Thread </a>
+
 # Getting started
 
 OB_Template contains template vault to get started, or to take some ideas. 
