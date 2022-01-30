@@ -20,8 +20,10 @@ ___
 - [[01_3_Tasks]]
 	- Template to make a task list
 ## 4 Objectives
-- [[01_4_Objectives]]
+- [[01_4_1_Objectives]]
 	- Similar to the tasks lists but designed to be a Objective tracker
+- [[01_4_2_YearlyGoals]]
+	- Template to create yearly goals 
 ## 5 Contacts
 - [[01_5_Contacts]]
 	- Template to create a contact list inside Obsidian
