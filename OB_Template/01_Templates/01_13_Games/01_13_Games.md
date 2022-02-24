@@ -3,7 +3,7 @@ alias: ["{{title}}"]
 tags: ["#game/", "#type/"]
 ---
 
-# Game Name
+# 🌌 Game Name
 > (Description:: )
 
 ||
@@ -16,7 +16,7 @@ tags: ["#game/", "#type/"]
 **Mana** | 
 
 ---
-# Stats
+# 💹 Stats
 STR | DEX | CON | INT | WIS | MAN ||
 :---:|:----:|:----:|:---:|:---:|:---:|---|
 \# |  |  |  |  |  | **Stats** |
@@ -24,10 +24,10 @@ STR | DEX | CON | INT | WIS | MAN ||
 
 
 
-### Skills
+### 🧙‍♂️ Skills
 \# | Skill | MP |
 :--:|-----|:------:|
 1| skill 1 | 10 |
 
-# Equipment
+# 🏹 Equipment
 
