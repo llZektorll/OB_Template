@@ -35,6 +35,8 @@ ___
 	- Template designed to be a project overview or project guideline
 - [[01_7_Project_Tasks]]
 	- Template designed to keep track of tasks inside of a project
+- [[01_07_ActionPlan]]
+	- Action plan to execute a specific task
 ## 8 Step by Step
 - [[01_8_Step_By_Step]]
 	- Template to design to crease a tutorial on how to preform a specific action
