@@ -1,36 +1,37 @@
-___
-> **!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!**
-> For every minute spent organizing, an hour is earned
-> It takes twice as long to do poorly and disorganized instead of doing well and organized
 ---
-# YEAR {{date: YYYY}}
-## Reflection
+created: ["{{date}} {{time}}"]
+tags: ["#log/yearlylog"]
+---
+
+# 📆 YEAR {{date: YYYY}}
+## 🔃 Reflection
 - 
-### Rating 0 -10
+### 💯 Rating 0 -10
 Happiness::
 Productivity::
 Relationships::
 Focus::
-### Events
+### 📜 Events
 **Biggest Personal Milestone**:: 
+- 
 **Biggest Career Milestone**:: 
-### Projects
-- .
-### Career
 - 
-### Future Plan
+### 🚀 Projects
 - 
-### Action
+### 🏢 Career
+- 
+### 📅 Future Plan
+- 
+### ✅ Action
 > ***Be thorough in planning!***
-- [ ] Update Yeraly Objectives
+- [ ] Update Yearly Objectives
 - [ ] Update Task List
-#### Projects
-**Career:**
+### 📚 To Read
 - 
-**Personal:**
+### 📗 Already read
 - 
-# Yearly Quiz
-### Past Year
+# ❓ Yearly Quiz
+### 🔙 Past Year
 1. Do you have a word for the year?
 	1. 
 2. What was the biggest Personal Milestone?
@@ -62,7 +63,7 @@ Focus::
 15. How has this year impacted your work life?
 	1. 
 
-### Next Year
+### ⏭ Next Year
 1. What are you looking forward to in the next year?
 	1. 
 2. What are you feeling apprehensive about?
