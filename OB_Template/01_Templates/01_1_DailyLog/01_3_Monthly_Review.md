@@ -1,30 +1,36 @@
-___
-> **!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!**
-> For every minute spent organizing, an hour is earned
-> It takes twice as long to do poorly and disorganized instead of doing well and organized
 ---
-# Month {{date: MM/YYYY}}
-## Reflection
+created: ["{{date}} {{time}}"]
+tags: ["#log/monthlylog"]
+---
+
+# 📆 Month {{date: MM/YYYY}}
+
+## 🔃 Reflection
 - 
-### Rating 0 -10
+### 🔷 Daily tasks completion rate
+
+### 💯 Rating 0 -10
 Happiness::
 Productivity::
 Relationships::
 Focus::
-### Events
+### 📜 Events
 **Biggest Personal Milestone**
 - 
 **Biggest Career Milestone**
 - 
-### Projects
-**Career:**
+### 🚀 Projects
 - 
-**Personal:**
+### 🏢 Career
 - 
-### Career
+### 📅 Future Plan
 - 
-### Future Plan
-- 
-### Action
+### ✅ Action
 > ***Be thorough in planning!***
 - [ ] Update Tasks lists
+
+### 📚 To Read
+
+
+
+### 💾 Information to retain from the daily logs
