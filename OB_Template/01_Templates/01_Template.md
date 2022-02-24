@@ -57,3 +57,5 @@ ___
 ## 13 Games
 - [[01_13_Games]]
 	- Template for a basic character in a game
+- [[01_13_GameReview]]
+	- Review of games template
