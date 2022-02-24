@@ -1,22 +1,23 @@
+---
+created: ["{{date}} {{time}}"]
+tags: ["#log/weaklylog"]
+---
 ___
-> **!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!**
-> For every minute spent organizing, an hour is earned
-> It takes twice as long to do poorly and disorganized instead of doing well and organized
 
-### Days
-- [[$days1]]
-
-### Weekly Reviews
+### 📅 Days
 - 
 
-### Reflection
+### 📑 Weekly Reviews
 - 
-### Rating 0 - 10
+
+### 🔃 Reflection
 - 
-### Events
+### 💯 Rating 0 - 10
+- 
+### 📜 Events
 **Biggest Career Milestone**
 - 
-### Projects
+### 📃 Projects
 **What did I accomplish?**
 - 
 **Am I satisfied with my progress?**
@@ -24,6 +25,5 @@ ___
 **What setbacks did I face?**
 - 
 **What are some possible improvements and plans for the future??**
-- 
-# REMINDERS
->**UPDATE TAKS LIST FOR THE WEAK in [[]] **
+
+### 💾 Information to retain from the daily logs
