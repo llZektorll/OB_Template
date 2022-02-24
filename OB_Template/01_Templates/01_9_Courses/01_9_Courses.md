@@ -1,30 +1,43 @@
 ---
 created: ["{{date}} {{time}}"]
-aliases: ["Curse: {{title}}", "Course Code:",]
-tags: ["#course/"]
+aliases: ["Course Code:",]
+---
+# 📃 Course -> 
+---
+# ❓ Information
+Type::.
+Speaker::.
+Course-Origin::. 
+Subject::. 
+Tags::.
+Started Reading on::.
+Completed on::.
+Perched on::.
+Price::.
+Certification::.  
+
+# 🌍 What It's About
+-   
 ---
 
-___
-# {{title}}
-
-## Notes and Ideas
+## 📜 Notes and Ideas
 ![[01_9_Courses_Notes]]
-## Assignments
+## 🎯 Assignments
 - 
-## Lectures
+## ⌛ Lectures
 - 
-## Extras
+## 📦 Resources
 - 
-### Grade Breakdown
+### 💹 Grade Breakdown
 - 
-### Grading Scale
+### 📈 Grading Scale
 - 
-### Tips
+### ❗ Tips
 - 
-### Emails and Resources
+### 📧 Emails
 - 
-### Important Dates
+### 📆 Important Dates
 - 
-### Classmates
+### 👤 Classmates
 - 
 ___
