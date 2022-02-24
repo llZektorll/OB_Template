@@ -6,14 +6,23 @@ aliases: ["Course Code:",]
 ---
 # ❓ Information
 Type::.
+
 Speaker::.
+
 Course-Origin::. 
+
 Subject::. 
+
 Tags::.
+
 Started Reading on::.
+
 Completed on::.
+
 Perched on::.
+
 Price::.
+
 Certification::.  
 
 # 🌍 What It's About
