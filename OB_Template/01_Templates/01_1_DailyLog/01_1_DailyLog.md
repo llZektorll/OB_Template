@@ -1,22 +1,39 @@
-___
-# Daily Log {{date: DD-MM-YYYY}}
+---
+created: ["{{date}} {{time}}"]
+tags: ["#log/dailylog"]
+---
 
-> **!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!**
-> For every minute spent organizing, an hour is earned
-> It takes twice as long to do poorly and disorganized instead of doing well and organized
-___
-## Objectives
-![[01_4_Objectives]]
-## All Tasks
-![[01_3_Tasks]]
-## Shopping list
-![[01_2_Shppong_List]]
-## Reminders
+# 📅 Daily Log {{date: DD-MM-YYYY}}
+
+---
+## 🔷 Daily Tasks
+- [ ] Breakfast
+- [ ] Study something
+- [ ] Work on personal projects
+- [ ] Workout
+	- [ ] Push up's
+	- [ ] Sit downs
+	- [ ] Deeps
+# 🕴 Business
+## 🎯 Objectives
 - 
-### Lingering Feelings, Observations, Thoughts
+## 🚀 Working On
 - 
-### Reflection
+## 📕 Reminders
 - 
-___
-### Today's Notes
+## 📚 Reading
 - 
+##  💬 Lingering feelings, Observations and Thoughts 
+1. Lingering Feelings
+	1. 
+2. Observations
+	1. 
+3. Thoughts
+	1. 
+## 🔃 Reflection
+1. 
+---
+
+## 📅 Today's Notes
+- 🕛6:00 
+	- Wok up and 
