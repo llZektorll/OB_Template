@@ -1,46 +1,43 @@
 
 ---
 created: ["{{date: DD-MM-YYYY}} {{time}}"]
-aliases: ["Project Code: {{title}}", "Project Type:"]
-tags: ["#project/"]
+aliases: ["Project Code"]
 ---
 
+# 🚀 Project -> 
 ___
-# Project -> 
-___
-References:
-
-Created: {{date: DD-MM-YYYY}} {{time}}
+## 🧾 Project Description
+- 
 ---
-Deadline:
-Hibernating:
-Completion date expected:
-Completed: 
-___
-## Details
-> Refer to the [[#Project_Index]] framework
-
-**Helpful**
-- 
-**Objective**
-- 
-**Roadblocks**
-- 
-**Naivety**
-- 
-**Insights**
-- 
-## Tasks 
-![[01_7_Project_Tasks]]
-### To Do's
-**Big:**
-- 
-**Medium::**
-- 
-**Small:**
-- 
-### Progress
-- 
-## Resources
+## 📢 Project information
+Created::. {{date: DD-MM-YYYY}} {{time}}
+Deadline::
+Hibernating::.
+Completion date expected::.
+Completed::.
+Type::.
+Tags::.
+Platform::.
 
 ___
+## 🎯 Objective
+
+1. 🟢 Ideal project result
+	1. 
+2. 🟠 Acceptable result
+	1. 
+## ❓ Expectations
+1. 🟢 Helpful to the project
+	1. 
+2. 🟠 Roadblocks
+	1. 
+3. 👶 Naivety
+	1. 
+4. 👨‍💻 Insights
+	1. 
+## ✅ Tasks 
+- 
+## 📦 Resources 
+- 
+## 📂 Project Logs 
+- 
