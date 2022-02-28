@@ -52,7 +52,7 @@ OB_Template is a folder full of templates to create have a starting point on a s
 
  13. <a href="https://github.com/llZektorll/OB_Template/tree/main/0A_Templates/0A_13_Meeting">Meeting </a> - Template for meetings
 
- 99. <a href="https://github.com/llZektorll/OB_Template/tree/main/0A_Templates/0A_9_Recipes">Index </a> - Template to index your vault
+ 99. <a href="https://github.com/llZektorll/OB_Template/tree/main/0A_Templates/0A_99_Index">Index </a> - Template to index your vault
 
   
 
