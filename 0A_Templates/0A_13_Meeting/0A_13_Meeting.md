@@ -17,7 +17,7 @@ Platform::.
 Meeting Members ::.
 # 📅 - Agenda
 1. 
-# 🎯 - Gaols
+# 🎯 - Goals
 1. 
 # 📝 Discussion notes
 - 
