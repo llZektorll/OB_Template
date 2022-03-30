@@ -21,7 +21,7 @@ ___
 - 
 # 🧠 Thoughts
 - 
-## What I Liked About I
+## What I Liked About IT
 - 
 ## What I Didn't Like About it
 - 
