@@ -17,6 +17,8 @@ aliases: ["Index"]
 	- Goals set for the year
 - [[0A_1_5_YearlyReview]]
 	- Review of the past year
+- [[0A_1_6_DailyLog_V2]]
+	- Log of every day activity Version 2
 
 ## 2️⃣ - Lists
 - [[0A_2_1_List]]
@@ -31,6 +33,10 @@ aliases: ["Index"]
 ## 4️⃣ - Courses
 - [[0A_4_1_Course]]
 	- Base information for a course
+- [[0A_4_2_CourseNote]]
+	- Base configuration for course notes summary
+- [[0A_4_3_CourseNote_2]]
+	- Base configuration for course notes summary Version 2
 
 ## 5️⃣ - Decision Making 
 - [[0A_5_1_DecisionMaking]]
@@ -64,6 +70,12 @@ aliases: ["Index"]
 # 1️⃣3️⃣ - Meetings
 - [[0A_13_Meeting]]
 	- Template for meetings information
+# 1️⃣4️⃣ - Trackers
+- [[0A_14_1_SlipBox]]
+	- Slip box, a index like template to organize information
+- [[0A_14_2_HabitTracker]]
+	- Habit Tracker is a template to track and gain/lose any habit's 
+
 ## 9️⃣9️⃣ - Indexation
 - [[0A_99_Index]]
 	- Creation of an index like this one 
