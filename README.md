@@ -83,3 +83,7 @@ All the notes have two naming systems.
 # Tags in use
 
 On the templates you will find multiple tags as I use them not to create a specific connection to other files but to have a broad connection across all the files where it may have some relevance.
+
+# Support 
+
+I have converted coffee into this repository. If you thinks it was worth it consider helping me buy more coffee. <a href="https://www.paypal.com/paypalme/llzektorll"> PayPal </a>
