@@ -108,6 +108,8 @@ You can find here a general list of all the template fields
 
 14. <a href="https://github.com/llZektorll/OB_Template/tree/main/0A_Templates/0A_14_Trackers"> Trackers </a> - Templates to track information or sort information
 
+15. <a href="https://github.com/llZektorll/OB_Template/tree/main/0A_Templates/0A_15_Company"> Company </a> - Templates register a company in your vault
+
 99. <a href="https://github.com/llZektorll/OB_Template/tree/main/0A_Templates/0A_99_Index">Index </a> - Template to index your vault
 
 
