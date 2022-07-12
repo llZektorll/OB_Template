@@ -4,14 +4,14 @@ aliases: ["Blog Post Code"]
 ---
 
 # ❓ Information
-Type::.
-Writer::.
-Tags::.
-Subject::.
-Started Reading on::.
-Completed on::.
-Perched on::.
-Price::.
+Type:: 
+Writer:: 
+Tags:: 
+Subject:: 
+Started Reading on:: 
+Completed on:: 
+Perched on:: 
+Price:: 
 
 ---
 # ❗ Relevant data

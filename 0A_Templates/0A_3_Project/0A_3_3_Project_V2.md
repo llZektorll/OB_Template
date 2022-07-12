@@ -1,11 +1,10 @@
 ---
 created: ["{{date: DD-MM-YYYY}} {{time}}"]
-aliases: ["Project Code"]
+aliases: ["Project: "]
 ---
 
 # 🚀 Project -> 
 ___
-
 ## 🧾 Project Description
 - 
 ---
@@ -19,6 +18,15 @@ Type::
 Tags:: 
 Platform:: 
 
+## 🧲Published
+- Reddit::
+- Discord::
+- Forum::
+- Website:: 
+- Twitter::
+- Instagram::
+- Facebook::
+- GitHub::
 ___
 ## 🎯 Objective
 

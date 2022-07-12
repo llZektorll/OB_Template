@@ -1,6 +1,6 @@
 ---
 created: ["{{date}} {{time}}"]
-tags: ["#log/dailylog"]
+tags: ["#Log/DaiLyLog"]
 ---
 
 # 📅 Daily Log {{date: DD-MM-YYYY}}

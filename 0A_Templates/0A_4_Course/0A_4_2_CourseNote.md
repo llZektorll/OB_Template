@@ -4,8 +4,8 @@ aliases: ["{{title}}"]
 ---
 
 # ❗❓ Information
-Related to::. 
-Tags::. 
+Related to:: 
+Tags:: 
 
 # 🌌 Course -> 
 ---

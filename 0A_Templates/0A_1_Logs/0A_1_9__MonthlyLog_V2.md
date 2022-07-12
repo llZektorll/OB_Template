@@ -5,6 +5,9 @@ tags: ["#Log/MonthlyLog"]
 
 # 📆 Month {{date: MM/YYYY}}
 
+## 📦 - Related Files
+- 
+
 ## 🔃 Reflection
 - 
 ### 🔷 Daily tasks completion rate

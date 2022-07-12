@@ -11,10 +11,10 @@ tags: ["#Personal/"]
 # 📅 My 30 Day's Challenge
 ## 📃 Challenge Information 
 Created:: {{date: DD-MM-YYYY}} {{time}}
-Starting On::
-Completed::
-Type::
-Tags::
+Starting On:: 
+Completed:: 
+Type:: 
+Tags:: 
 
 ## 🎯 The habit I will gain/lose
 - 
@@ -22,7 +22,7 @@ Tags::
 # ❗ Challenge Log
 
 
-| #     | #   | #   | #   | #   | #   | #   | #   |
+|       |     |     |     |     |     |     |     |
 | ----- | --- | --- | --- | --- | --- | --- | --- |
 | Day   | 1   | 2   | 3   | 4   | 5   | 6   | 7   |
 | Notes |     |     |     |     |     |     |     |
@@ -33,6 +33,6 @@ Tags::
 | Day   | 22  | 23  | 24  | 25  | 26  | 27  | 28  |
 | Notes |     |     |     |     |     |     |     |
 | Day   | 29  | 30  |     |     |     |     |     |
-| Notes      |     |     |     |     |     |     |     |
+| Notes |     |     |     |     |     |     |     |
 
 ### Congratulations! You made it to 30 days! You see if you can keep going.

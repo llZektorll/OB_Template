@@ -7,14 +7,14 @@ created: ["{{date}} {{time}}"]
 ---
 ## 📢 - Project information
 Created::. {{date: DD-MM-YYYY}} {{time}}
-Deadline::
-Hibernating::.
-Completion date expected::.
-Completed::.
-Type::.
-Tags::.
-Platform::.
-Meeting Members ::.
+Deadline:: 
+Hibernating::. 
+Completion date expected:: 
+Completed:: 
+Type:: 
+Tags:: 
+Platform:: 
+Meeting Members :: 
 # 📅 - Agenda
 1. 
 # 🎯 - Goals

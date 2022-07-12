@@ -3,8 +3,8 @@ created: ["{{date}} {{time}}"]
 ---
 
 # ❗ Information
-Related to::. 
-Tags::.
+Related to:: 
+Tags:: 
 
 # 🌌 Action plan -> 
 ---

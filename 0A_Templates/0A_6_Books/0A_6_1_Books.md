@@ -6,14 +6,14 @@ aliases: ["Book: {{title}}"]
 # 📔 Book -> 
 ___
 # ❓ Information
-Type::.
-Writer::.
-Tags::.
-Subject::.
-Started Reading on::.
-Completed on::.
-Perched on::.
-Price::.
+Type:: 
+Writer:: 
+Tags:: 
+Subject:: 
+Started Reading on:: 
+Completed on:: 
+Perched on:: 
+Price:: 
 ___
 # 🌍 What It's About
 -  

@@ -6,9 +6,9 @@ aliases: ["Recipe: {{title}}"]
 # 🍽 Recipe -> 
 
 # ❓ Information
-Type::.
-Origin::. 
-Tags::.
+Type:: 
+Origin:: 
+Tags:: 
 ## 🍜 Ingredients
 1. [ ] 
 

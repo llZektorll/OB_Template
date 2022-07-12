@@ -1,5 +1,3 @@
-This template needs DataView plugin
-
 ---
 created: ["{{date}} {{time}}"]
 tags: ["#Log/WeeklyLog"]

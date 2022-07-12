@@ -1,9 +1,9 @@
 ---
 created: ["{{date}} {{time}}"]
-tags: ["#log/dailylog"]
+tags: ["#Log/DaiLyLog"]
 ---
 # Metadata:
-- Tag:: #log/dailylog
+- Tag:: #Log/dailylog
 - Created:: {{date: DD-MM-YYYY}}
 - Week:: 
 
@@ -18,10 +18,10 @@ The function below requires the plugin Dynamic Table of Contents
 ## 🔷Tracker
 - Breakfast:: 
 - Feeling:: 
-- Working On::
-- Money Spent::
-- Workout::
-- Motivation::
+- Working On:: 
+- Money Spent:: 
+- Workout:: 
+- Motivation:: 
 
 ##  💬 Lingering feelings, Observations and Thoughts 
 1. Lingering Feelings

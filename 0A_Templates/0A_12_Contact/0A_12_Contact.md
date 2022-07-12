@@ -1,15 +1,16 @@
 ---
-aliases: ["first_name", "company"]
+aliases: ["first_name"]
 created: ["{{date}} {{time}}"]
 ---
 # {{title}}
 ----
-## Contact Info
-Full Name: 
-Email: 
-Phone: 
-Address: 
-Linked Files: 
+## 👨‍💼 - Contact Info
+Full Name:: 
+Email:: 
+Company:: 
+Phone:: 
+Address:: 
+Linked Files:: 
 
 ----
 

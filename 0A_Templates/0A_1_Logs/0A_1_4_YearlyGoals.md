@@ -1,3 +1,8 @@
+---
+created: ["{{date}} {{time}}"]
+tags: ["#Log/YearlyGoals"]
+---
+
 ### 🚀 Dream -
 
   
