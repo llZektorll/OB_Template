@@ -1,6 +1,7 @@
 <div align="center">
 
-![39438916879fc6e20fca16cbc962a44f272e102f (1)](https://user-images.githubusercontent.com/89364200/173401712-a37e77e5-3b64-4947-91ea-8326e63ba992.png)
+![ob_Templates](https://user-images.githubusercontent.com/89364200/178482594-6c5673bc-6c21-46a5-a048-b2fafcf90407.png)
+
 
 <a href="https://discord.gg/veuWUTm">
   <img src="https://img.shields.io/discord/686053708261228577?color=%234E5D94%20&label=Obsidian Discord Server&logo=Discord&logoColor=white">
