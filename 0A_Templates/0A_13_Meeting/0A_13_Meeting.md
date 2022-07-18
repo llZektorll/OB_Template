@@ -1,7 +1,10 @@
 ---
 aliases: ["Topic: {{title}}", "Project:"]
 created: ["{{date}} {{time}}"]
+tags:
+- Meeting/
 ---
+
 # 🚀 Meeting -> 
 
 ---

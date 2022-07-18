@@ -1,6 +1,8 @@
 ---
 created: ["{{date}} {{time}}"]
 aliases: ["{{title}}"]
+tags:
+- CourseNote/
 ---
 
 # ❗❓ Information

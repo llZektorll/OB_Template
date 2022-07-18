@@ -1,6 +1,7 @@
 ---
 created: ["{{date}} {{time}}"]
-tags: ["#App/"]
+tags: 
+- App/
 ---
 
 

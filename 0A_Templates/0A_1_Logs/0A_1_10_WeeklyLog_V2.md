@@ -1,6 +1,7 @@
 ---
 created: ["{{date}} {{time}}"]
-tags: ["#Log/WeeklLog"]
+tags:
+- Log/WeeklLog
 ---
 ___
 ```toc

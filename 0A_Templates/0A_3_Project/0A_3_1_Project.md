@@ -1,6 +1,8 @@
 ---
 created: ["{{date: DD-MM-YYYY}} {{time}}"]
 aliases: ["Project Code"]
+tags:
+- Project/
 ---
 
 # 🚀 Project -> 

@@ -1,6 +1,8 @@
 ---
 created: ["{{date}} {{time}}"]
 aliases: ["Recipe: {{title}}"]
+tags:
+- Recipe/
 ---
 
 # 🍽 Recipe -> 

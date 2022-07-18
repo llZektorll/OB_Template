@@ -1,6 +1,8 @@
 ---
 created: ["{{date}} {{time}}"]
 aliases: ["Games: {{title}}"]
+tags:
+- Game/
 ---
 ## 🎮 Game Review ->
 # ❓ Information

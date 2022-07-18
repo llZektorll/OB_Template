@@ -1,6 +1,7 @@
 ---
 created: ["{{date}} {{time}}"]
-tags: ["#List/"]
+tags:
+- List/
 ---
 # 💠 Task List
 ## 🔴 URGENT

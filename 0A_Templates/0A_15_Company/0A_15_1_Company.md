@@ -1,6 +1,8 @@
 ---
 aliases: ["Topic: {{title}}"]
 created: ["{{date}} {{time}}"]
+tags:
+- Company/
 ---
 # 🏦 Company -> 
 

@@ -1,5 +1,7 @@
 ---
 aliases: ["Index"]
+tags:
+- Frame/IndexTemplates
 ---
 # Templates Index
 ---

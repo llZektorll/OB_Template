@@ -1,6 +1,7 @@
 ---
 created: ["{{date}} {{time}}"]
-tags: ["#Log/YearlyReview"]
+tags: 
+- Log/YearlyReview
 ---
 
 # 📆 YEAR {{date: YYYY}}

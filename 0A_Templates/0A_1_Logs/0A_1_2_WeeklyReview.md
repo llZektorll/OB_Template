@@ -1,6 +1,7 @@
 ---
 created: ["{{date}} {{time}}"]
-tags: ["#Log/WeeklyReview"]
+tags:
+- Log/WeeklyReview
 ---
 ___
 

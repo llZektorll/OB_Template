@@ -1,8 +1,12 @@
 ---
 created: ["{{date}} {{time}}"]
-aliases: ["Course Code:",]
+aliases: ["Course Code:"]
+tags:
+- Course/
 ---
+
 # 📃 Course -> 
+
 ---
 # ❓ Information
 Type:: 

@@ -1,6 +1,7 @@
 ---
 created: ["{{date}} {{time}}"]
-tags: ["#Log/MonthlyLog"]
+tags:
+- Log/MonthlyLog
 ---
 
 # 📆 Month {{date: MM/YYYY}}

@@ -1,6 +1,8 @@
 ---
 created: ["16-02-2022 17:38"]
 aliases: ["{{title}}"]
+tags:
+- Entertainment/
 ---
 
 # 📔 Type -> Name

@@ -1,6 +1,7 @@
 ---
 created: ["{{date}} {{time}}"]
-tags: ["#Frame/"]
+tags:
+- Frame/
 ---
 
 # 📚 Slip Box 

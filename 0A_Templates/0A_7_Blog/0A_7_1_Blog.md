@@ -1,6 +1,8 @@
 ---
 created: ["{{date}} {{time}}"]
 aliases: ["Blog Post Code"]
+tags:
+- Blog/
 ---
 
 # ❓ Information

@@ -1,6 +1,8 @@
 ---
 created: ["{{date}} {{time}}"]
 aliases: ["Book: {{title}}"]
+tags:
+- BookType/
 ---
 
 # 📔 Book -> 

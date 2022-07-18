@@ -1,5 +1,7 @@
 ---
 created: ["{{date}} {{time}}"]
+tags:
+- AP/
 ---
 
 # ❗ Information

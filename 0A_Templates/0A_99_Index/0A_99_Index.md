@@ -1,5 +1,7 @@
 ---
 aliases: ["{{title}}"]
+tags:
+- Frame/
 ---
 
 # {{title}} Index
