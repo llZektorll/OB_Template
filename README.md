@@ -88,7 +88,7 @@ You can find here a general list of all the template fields
 
 4. <a href="https://github.com/llZektorll/OB_Template/tree/main/0A_Templates/0A_4_Course">Courses </a> - Template to store information about a course and it's notes
 
-5. <a href="https://github.com/llZektorll/OB_Template/tree/main/0A_Templates/0A_5_DecisionMaking">Decision-Making </a> - Temples to help make decisions
+5. <a href="https://github.com/llZektorll/OB_Template/tree/main/0A_Templates/0A_5_DecisionMaking">Decision-Making </a> - Template to help make decisions
 
 6. <a href="https://github.com/llZektorll/OB_Template/tree/main/0A_Templates/0A_6_Books">Books </a> - Template to store information about a book and book notes
 
