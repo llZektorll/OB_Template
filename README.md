@@ -121,31 +121,33 @@ Here you can find a general list of all the template types:
 <details>
 <summary></summary>
 
-	❓ - How do i add the templates ?
+	❓ - How do I add the templates?
 
 A: Simply copy the templates folder or the specific template file to your vault.
 
-	❓ - How do I use the templates ?
+	❓ - How do I use the templates?
 
 A: As a general rule, most templates need to be "Imported". In other words, make sure you have at least Obsidian native templates option enabled and configured.
 
-	❓ - Can I contribute to the repository ?
+	❓ - Can I contribute to the repository?
 
 A: YES! You are free to submit any template you use.
 
-	❓ - Can i clone the repository?
+	❓ - Can I clone the repository?
 
 A: Yes, just make sure to leave the credits.
 
-	❓ - Is there any pre-requisite plugin to use the templates?
+	❓ - Are there any prerequisite plugins to use the templates?
 
-A: Yes and No. I'm assuming you already have, DataView and Advanced Tables. But it does not hurt to have Dynamic Table of Contents.
+A: Yes and No. I'm assuming you already have DataView and Advanced Tables. But it does not hurt to have Dynamic Table of Contents.
 
-	❓ - What is the meaning of the Tag's ?
-A: All the Tag's in the templates are just examples. 
+	❓ - What is the meaning of the Tags?
 
-	❓ - My question/issue is not listed here, how can i get an answer ?
-A: For any queries please head to the Obsidian forum and check the template thread. <a href="https://forum.obsidian.md/t/obsidian-notes-template/28940">OB_Template Thread </a>, I will answer as fast as possible. 
+A: All the Tags in the templates are just examples.
+
+	❓ - My question/issue is not listed here, how can I get an answer?
+
+A: For any queries please head to the Obsidian forum and check the template thread. <a href="https://forum.obsidian.md/t/obsidian-notes-template/28940">OB_Template Thread</a>, I will answer as fast as possible. 
 
 </details>
 
