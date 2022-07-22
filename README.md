@@ -63,7 +63,7 @@ I have converted coffee into this repository. If you think it was worth it, cons
 
 OB_Templates it's not a vault template, this is simply a folder of templates to be added in your vault. 
 
-You can add the templates to your vault in different ways, there are some of me easiest examples.
+You can add the templates to your vault in different ways, these are some of my easiest examples.
 
 1. Download the repository, extract the files and add to your vault.
 2. Go to a specific template and copy the text (Make sure you open in raw mode) and copy the text to a file in your vault.
