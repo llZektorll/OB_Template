@@ -139,15 +139,15 @@ A: Yes, just make sure to leave the credits.
 
 	❓ - Are there any prerequisite plugins to use the templates?
 
-A: Yes and No. I'm assuming you already have DataView and Advanced Tables. But it does not hurt to have Dynamic Table of Contents.
+A: Yes and No. I'm assuming you already have <a href="https://github.com/blacksmithgu/obsidian-dataview">DataView</a> and <a href="https://github.com/tgrosinger/advanced-tables-obsidian">Advanced Tables</a>. But it does not hurt to have <a href="https://github.com/Aidurber/obsidian-plugin-dynamic-toc">Dynamic Table of Contents</a>.
 
 	❓ - What is the meaning of the Tags?
 
-A: All the Tags in the templates are just examples.
+A: All the Tags in the templates are just examples. You can add or remove any Tags you would like. Here is somewhere to learn more about <a href="https://help.obsidian.md/How+to/Working+with+tags">how to work with Tags in Obsidian</a>.
 
 	❓ - My question/issue is not listed here, how can I get an answer?
 
-A: For any queries please head to the Obsidian forum and check the template thread. <a href="https://forum.obsidian.md/t/obsidian-notes-template/28940">OB_Template Thread</a>, I will answer as fast as possible. 
+A: For any queries please head to the Obsidian forum and check the <a href="https://forum.obsidian.md/t/obsidian-notes-template/28940">OB_Template Thread</a>, I will answer as fast as possible. 
 
 </details>
 
