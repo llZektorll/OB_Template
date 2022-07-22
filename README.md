@@ -46,12 +46,12 @@
 <details>
 <summary></summary>
 
-OB_Templates is a <a href="https://obsidian.md/">Obsidian</a> reference for my note templates. 
+OB_Templates is an <a href="https://obsidian.md/">Obsidian</a> reference for my note templates. 
 
-I have crafted these templates for my personal use, as such they are tailored made for my needs.
-In any case I decided to share them since most of them have been created based on other people templates, my OneNote, work notes and years of note taking.
+I have crafted these templates for my personal use, as such, they are tailor-made for my needs.
+In any case, I decided to share them since most of them have been created based on other peoples' templates, my OneNote, work notes, and years of note taking.
 
-I have converted coffee into this repository. If you thinks it was worth it consider helping me buy more coffee<a href="https://www.paypal.com/paypalme/llzektorll"> PayPal </a>
+I have converted coffee into this repository. If you think it was worth it, consider helping me buy more coffee: <a href="https://www.paypal.com/paypalme/llzektorll"> PayPal </a>
 
 </details>
 
