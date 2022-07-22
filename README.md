@@ -77,16 +77,16 @@ You can add the templates to your vault in different ways, these are some of my 
 <details>
 <summary></summary>
 
-You can find here a general list of all the template fields 
+Here you can find a general list of all the template types:
 
 
 1. <a href="https://github.com/llZektorll/OB_Template/tree/main/0A_Templates/0A_1_Logs">Logs </a> - Templates for daily log, weekly, monthly and yearly reviews
 
-2. <a href="https://github.com/llZektorll/OB_Template/tree/main/0A_Templates/0A_2_Lists">Lists </a> - Template for a simple lists
+2. <a href="https://github.com/llZektorll/OB_Template/tree/main/0A_Templates/0A_2_Lists">Lists </a> - Template for a simple list
 
-3. <a href="https://github.com/llZektorll/OB_Template/tree/main/0A_Templates/0A_3_Project">Projects </a> - Template for projects and action plans
+3. <a href="https://github.com/llZektorll/OB_Template/tree/main/0A_Templates/0A_3_Project">Projects </a> - Templates for projects and action plans
 
-4. <a href="https://github.com/llZektorll/OB_Template/tree/main/0A_Templates/0A_4_Course">Courses </a> - Template to store information about a course and it's notes
+4. <a href="https://github.com/llZektorll/OB_Template/tree/main/0A_Templates/0A_4_Course">Courses </a> - Templates to store information about a course and it's notes
 
 5. <a href="https://github.com/llZektorll/OB_Template/tree/main/0A_Templates/0A_5_DecisionMaking">Decision-Making </a> - Template to help make decisions
 
@@ -104,13 +104,13 @@ You can find here a general list of all the template fields
 
 12. <a href="https://github.com/llZektorll/OB_Template/tree/main/0A_Templates/0A_12_Contact">Contact </a> - Template to create a person contact
 
-13. <a href="https://github.com/llZektorll/OB_Template/tree/main/0A_Templates/0A_13_Meeting">Meeting </a> - Template for meetings
+13. <a href="https://github.com/llZektorll/OB_Template/tree/main/0A_Templates/0A_13_Meeting">Meeting </a> - Template to store notes taken in meetings
 
-14. <a href="https://github.com/llZektorll/OB_Template/tree/main/0A_Templates/0A_14_Trackers"> Trackers </a> - Templates to track information or sort information
+14. <a href="https://github.com/llZektorll/OB_Template/tree/main/0A_Templates/0A_14_Trackers">Trackers </a> - Templates to track information or sort information
 
-15. <a href="https://github.com/llZektorll/OB_Template/tree/main/0A_Templates/0A_15_Company"> Company </a> - Templates register a company in your vault
+15. <a href="https://github.com/llZektorll/OB_Template/tree/main/0A_Templates/0A_15_Company">Company </a> - Template to register a company in your vault
 
-99. <a href="https://github.com/llZektorll/OB_Template/tree/main/0A_Templates/0A_99_Index">Index </a> - Template to index your vault
+99. <a href="https://github.com/llZektorll/OB_Template/tree/main/0A_Templates/0A_99_Index">Index </a> - Template to create an index for your vault
 
 
 </details>
