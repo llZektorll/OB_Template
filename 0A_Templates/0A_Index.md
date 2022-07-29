@@ -38,6 +38,8 @@ tags:
     - Basic design for a project task
 - [[0A_3_3_Project_V2]]
 	- Base design for a project Version 2
+- [[0A_3_4_ProjectProposal]]
+	- Base design for a project proposal
 ## 4️⃣ - Courses
 - [[0A_4_1_Course]]
     - Base information for a course
@@ -63,23 +65,30 @@ tags:
 ## 1️⃣0️⃣ - Entertainment
 - [[0A_10_1_Entertainment]]
     - Template for entertainment information
+- [[0A_10_2_Movie&ShowReview]]
+	- Template for movies and shows reviews 
 ## 1️⃣1️⃣ - Application
-- [[0A_11_Application]]
+- [[0A_11_1_Application]]
     - Template for applications
 ## 1️⃣2️⃣ - Contact
-- [[0A_12_Contact]]
+- [[0A_12_1_Contact]]
     - Template for a contact creation
-# 1️⃣3️⃣ - Meetings
-- [[0A_13_Meeting]]
+## 1️⃣3️⃣ - Meetings
+- [[0A_13_1_Meeting]]
     - Template for meetings information
-# 1️⃣4️⃣ - Trackers
+- [[0A_13_2_DailyCheckIn]]
+	- Template for a daily check in meeting
+## 1️⃣4️⃣ - Trackers
 - [[0A_14_1_SlipBox]]
     - Slip box, a index like template to organize information
 - [[0A_14_2_HabitChallenge]]
     - Habit Tracker is a template to track and gain/lose any habit's
-# 1️⃣5️⃣ - Company 
+## 1️⃣5️⃣ - Company 
 - [[0A_15_1_Company]]
 	- Company information
+## 1️⃣6️⃣ - Investments
+- [[0A_16_1_Stocks]]
+	- Template to control stock 
 ## 9️⃣9️⃣ - Indexation
 - [[0A_99_Index]]
     - Creation of an index like this one
