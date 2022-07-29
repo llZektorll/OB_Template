@@ -110,6 +110,8 @@ Here you can find a general list of all the template types:
 
 15. <a href="https://github.com/llZektorll/OB_Template/tree/main/0A_Templates/0A_15_Company">Company </a> - Template to register a company in your vault
 
+16. <a href="https://github.com/llZektorll/OB_Template/tree/main/0A_Templates/0A_16_Investment">Investment </a> - Template to tracks stock investment
+
 99. <a href="https://github.com/llZektorll/OB_Template/tree/main/0A_Templates/0A_99_Index">Index </a> - Template to create an index for your vault
 
 
