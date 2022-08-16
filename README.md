@@ -165,6 +165,6 @@ This file structure is designed to fit my need, I will leave a brief explanation
 EX: 0A_Template. "0" -> Root notes folder "A" -> First vault folder "Templates" -> Main type of information
 
 2. All the files carry the information from it's hierarchy.
-EX: 0A_1_1_DailyLog, "0" -> Root notes folder "A" -> First vault folder "1" -> first folder in the vault "1" -> First Sub-folder "DailyLog" -> File Name
+EX: 0A_1_1_DailyLog, "0" -> Root notes folder "A" -> First vault folder "1" -> first sub-folder in the vault "1" -> First file "DailyLog" -> File Name
 
 </details>
