@@ -25,6 +25,7 @@
 - [Template Content](#template-content)
 - [Frequently Asked Questions (FAQ)](#faq)
 - [File Structure](#file-structure)
+- [Special Thanks](#special-thanks)
 
 ---
 
@@ -166,5 +167,19 @@ EX: 0A_Template. "0" -> Root notes folder "A" -> First vault folder "Templates" 
 
 2. All the files carry the information from it's hierarchy.
 EX: 0A_1_1_DailyLog, "0" -> Root notes folder "A" -> First vault folder "1" -> first sub-folder in the vault "1" -> First file "DailyLog" -> File Name
+
+</details>
+
+---
+
+# Special Thanks 
+<details>
+<summary></summary>
+
+First of all, this list is not based on how much, how often or how significant the contribution was made.
+
+If at any point you have helped this project and youre name is not here, I apolagie but this section was introduced a bit to far into the project creation. However you are welcome to contact me directly on the Forum or in Discord (Zektor#5616).
+
+
 
 </details>

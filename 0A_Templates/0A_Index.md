@@ -89,6 +89,9 @@ tags:
 ## 1️⃣6️⃣ - Investments
 - [[0A_16_1_Stocks]]
 	- Template to control stock 
+## 1️⃣7️⃣ - Entertainment
+- [[0A_17_1_WordDictionary]]
+	- Template to create a Word Dictionary where every word/Acronym is a file with it's explanation or meaning depending on the context. 
 ## 9️⃣9️⃣ - Indexation
 - [[0A_99_Index]]
     - Creation of an index like this one
