@@ -113,6 +113,8 @@ Here you can find a general list of all the template types:
 
 16. <a href="https://github.com/llZektorll/OB_Template/tree/main/0A_Templates/0A_16_Investment">Investment </a> - Template to tracks stock investment
 
+17. <a href="https://github.com/llZektorll/OB_Template/blob/main/0A_Templates/0A_17_WordDictionary/0A_17_1_WordDictionary.md">Word Dictionary </a> - Template to create a dictionary of Words / Acronyms
+
 99. <a href="https://github.com/llZektorll/OB_Template/tree/main/0A_Templates/0A_99_Index">Index </a> - Template to create an index for your vault
 
 
@@ -178,8 +180,11 @@ EX: 0A_1_1_DailyLog, "0" -> Root notes folder "A" -> First vault folder "1" -> f
 
 First of all, this list is not based on how much, how often or how significant the contribution was made.
 
-If at any point you have helped this project and youre name is not here, I apolagie but this section was introduced a bit to far into the project creation. However you are welcome to contact me directly on the Forum or in Discord (Zektor#5616).
+If at any point you have helped this project and you're name is not here, I apologize but this section was introduced a bit to far into the project creation. However you are welcome to contact me directly on the Forum or in Discord (Zektor#5616)
 
+<a href="https://github.com/FeFoe">Felix Förster</a> - Miss placed link correction
+<a href="https://github.com/kaleblub">Kaleb</a> - Added links to all plugin that are mentioned on the project as well as corrected some typos.
+<a href="https://github.com/dbarenholz">Daniel Barenholz</a> - The template <a href="https://github.com/llZektorll/OB_Template/blob/main/0A_Templates/0A_17_WordDictionary/0A_17_1_WordDictionary.md">Word Dictionary</a> was created based on a conversation we had on Discord out of my need to create a dictionary for acronyms. Hero Achievement ✨
 
 
 </details>
