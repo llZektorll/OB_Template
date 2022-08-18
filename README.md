@@ -183,7 +183,9 @@ First of all, this list is not based on how much, how often or how significant t
 If at any point you have helped this project and you're name is not here, I apologize but this section was introduced a bit to far into the project creation. However you are welcome to contact me directly on the Forum or in Discord (Zektor#5616)
 
 <a href="https://github.com/FeFoe">Felix Förster</a> - Miss placed link correction
+
 <a href="https://github.com/kaleblub">Kaleb</a> - Added links to all plugin that are mentioned on the project as well as corrected some typos.
+
 <a href="https://github.com/dbarenholz">Daniel Barenholz</a> - The template <a href="https://github.com/llZektorll/OB_Template/blob/main/0A_Templates/0A_17_WordDictionary/0A_17_1_WordDictionary.md">Word Dictionary</a> was created based on a conversation we had on Discord out of my need to create a dictionary for acronyms. Hero Achievement ✨
 
 
