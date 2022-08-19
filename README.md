@@ -47,10 +47,13 @@
 <details>
 <summary></summary>
 
-OB_Templates is an <a href="https://obsidian.md/">Obsidian</a> reference for my note templates. 
+The project OB_Templates is an <a href="https://obsidian.md/">Obsidian</a> template repository that started on the 25th of December 2021.
 
-I have crafted these templates for my personal use, as such, they are tailor-made for my needs.
-In any case, I decided to share them since most of them have been created based on other peoples' templates, my OneNote, work notes, and years of note taking.
+Since the start of the project there have been many change. Since it started as a gathering place for all my templates, soon it have become a project aimed at new users in <a href="https://obsidian.md/">Obsidian</a> with a very important rule. **All templates must use only the core plugins of Obsidian**
+
+With time i found that <a href="https://github.com/blacksmithgu/obsidian-dataview">DataView</a> have become a essential to every user, although i try to keep it as basic as possible not to confuse new users.
+
+All the available templates are not designed to be perfect, they are intended to be used as a reference for any user to build on them or to take ideas when building you're own templates.
 
 I have converted coffee into this repository. If you think it was worth it, consider helping me buy more coffee: <a href="https://www.paypal.com/paypalme/llzektorll"> PayPal </a>
 
