@@ -23,7 +23,6 @@
 - [What is Obsidian?](#what-is-obsidian)
 - [Project Description](#project-description)
 - [Usage](#usage)
-- [Template Content](#template-content)
 - [FAQ](#faq)
 - [File Structure](#file-structure)
 - [Special Thanks](#special-thanks)
@@ -72,54 +71,6 @@ You can add the templates to your vault in different ways, these are some of my 
 
 1. Download the repository, extract the files and add to your vault.
 2. Go to a specific template and copy the text (Make sure you open in raw mode) and copy the text to a file in your vault.
-
-
-</details>
-
----
-
-# Template Content
-<details>
-<summary></summary>
-
-Here you can find a general list of all the template types:
-
-
-1. <a href="https://github.com/llZektorll/OB_Template/tree/main/00%20-%20Templates/01%20-%20Logs">Logs </a> - Templates for daily log, weekly, monthly and yearly reviews
-
-2. <a href="https://github.com/llZektorll/OB_Template/tree/main/00%20-%20Templates/02%20-%20Lists">Lists </a> - Template for a simple list
-
-3. <a href="https://github.com/llZektorll/OB_Template/tree/main/00%20-%20Templates/03%20-%20Project">Projects </a> - Templates for projects and action plans
-
-4. <a href="https://github.com/llZektorll/OB_Template/tree/main/00%20-%20Templates/04%20-%20Course">Courses </a> - Templates to store information about a course and it's notes
-
-5. <a href="https://github.com/llZektorll/OB_Template/tree/main/00%20-%20Templates/05%20-%20DecisionMaking">Decision-Making </a> - Template to help make decisions
-
-6. <a href="https://github.com/llZektorll/OB_Template/tree/main/00%20-%20Templates/06%20-%20Books">Books </a> - Template to store information about a book and book notes
-
-7. <a href="https://github.com/llZektorll/OB_Template/tree/main/0A_Templates/0A_7_Blog">Blog </a> - Template to create a blog post
-
-8. <a href="https://github.com/llZektorll/OB_Template/tree/main/0A_Templates/0A_8_Reviews">Reviews </a> - Template to review a game
-
-9. <a href="https://github.com/llZektorll/OB_Template/tree/main/0A_Templates/0A_9_Recipes">Recipes </a> - Template to store cooking recipes
-
-10. <a href="https://github.com/llZektorll/OB_Template/tree/main/0A_Templates/0A_10_Entertainment">Entertainment </a> - Template to store information on TV Shows, Movies etc.
-
-11. <a href="https://github.com/llZektorll/OB_Template/tree/main/0A_Templates/0A_11_Application">Application </a> - Template to store information on known applications
-
-12. <a href="https://github.com/llZektorll/OB_Template/tree/main/0A_Templates/0A_12_Contact">Contact </a> - Template to create a person contact
-
-13. <a href="https://github.com/llZektorll/OB_Template/tree/main/0A_Templates/0A_13_Meeting">Meeting </a> - Template to store notes taken in meetings
-
-14. <a href="https://github.com/llZektorll/OB_Template/tree/main/0A_Templates/0A_14_Trackers">Trackers </a> - Templates to track information or sort information
-
-15. <a href="https://github.com/llZektorll/OB_Template/tree/main/0A_Templates/0A_15_Company">Company </a> - Template to register a company in your vault
-
-16. <a href="https://github.com/llZektorll/OB_Template/tree/main/0A_Templates/0A_16_Investment">Investment </a> - Template to tracks stock investment
-
-17. <a href="https://github.com/llZektorll/OB_Template/blob/main/0A_Templates/0A_17_WordDictionary/0A_17_1_WordDictionary.md">Word Dictionary </a> - Template to create a dictionary of Words / Acronyms
-
-99. <a href="https://github.com/llZektorll/OB_Template/tree/main/0A_Templates/0A_99_Index">Index </a> - Template to create an index for your vault
 
 
 </details>
