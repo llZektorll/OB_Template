@@ -19,11 +19,12 @@
 
 # Index
 
+- [Index](#index)
 - [What is Obsidian?](#what-is-obsidian)
 - [Project Description](#project-description)
 - [Usage](#usage)
 - [Template Content](#template-content)
-- [Frequently Asked Questions (FAQ)](#faq)
+- [FAQ](#faq)
 - [File Structure](#file-structure)
 - [Special Thanks](#special-thanks)
 
@@ -84,17 +85,17 @@ You can add the templates to your vault in different ways, these are some of my 
 Here you can find a general list of all the template types:
 
 
-1. <a href="https://github.com/llZektorll/OB_Template/tree/main/0A_Templates/0A_1_Logs">Logs </a> - Templates for daily log, weekly, monthly and yearly reviews
+1. <a href="https://github.com/llZektorll/OB_Template/tree/main/00%20-%20Templates/01%20-%20Logs">Logs </a> - Templates for daily log, weekly, monthly and yearly reviews
 
-2. <a href="https://github.com/llZektorll/OB_Template/tree/main/0A_Templates/0A_2_Lists">Lists </a> - Template for a simple list
+2. <a href="https://github.com/llZektorll/OB_Template/tree/main/00%20-%20Templates/02%20-%20Lists">Lists </a> - Template for a simple list
 
-3. <a href="https://github.com/llZektorll/OB_Template/tree/main/0A_Templates/0A_3_Project">Projects </a> - Templates for projects and action plans
+3. <a href="https://github.com/llZektorll/OB_Template/tree/main/00%20-%20Templates/03%20-%20Project">Projects </a> - Templates for projects and action plans
 
-4. <a href="https://github.com/llZektorll/OB_Template/tree/main/0A_Templates/0A_4_Course">Courses </a> - Templates to store information about a course and it's notes
+4. <a href="https://github.com/llZektorll/OB_Template/tree/main/00%20-%20Templates/04%20-%20Course">Courses </a> - Templates to store information about a course and it's notes
 
-5. <a href="https://github.com/llZektorll/OB_Template/tree/main/0A_Templates/0A_5_DecisionMaking">Decision-Making </a> - Template to help make decisions
+5. <a href="https://github.com/llZektorll/OB_Template/tree/main/00%20-%20Templates/05%20-%20DecisionMaking">Decision-Making </a> - Template to help make decisions
 
-6. <a href="https://github.com/llZektorll/OB_Template/tree/main/0A_Templates/0A_6_Books">Books </a> - Template to store information about a book and book notes
+6. <a href="https://github.com/llZektorll/OB_Template/tree/main/00%20-%20Templates/06%20-%20Books">Books </a> - Template to store information about a book and book notes
 
 7. <a href="https://github.com/llZektorll/OB_Template/tree/main/0A_Templates/0A_7_Blog">Blog </a> - Template to create a blog post
 
