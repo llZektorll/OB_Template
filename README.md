@@ -24,7 +24,6 @@
 - [Project Description](#project-description)
 - [Usage](#usage)
 - [FAQ](#faq)
-- [File Structure](#file-structure)
 - [Special Thanks](#special-thanks)
 
 ---
@@ -108,22 +107,6 @@ A: All the Tags in the templates are just examples. You can add or remove any Ta
 	❓ - My question/issue is not listed here, how can I get an answer?
 
 A: For any queries please head to the Obsidian forum and check the <a href="https://forum.obsidian.md/t/obsidian-notes-template/28940">OB_Template Thread</a>, I will answer as fast as possible. 
-
-</details>
-
----
-
-# File Structure
-<details>
-<summary></summary>
-
-This file structure is designed to fit my need, I will leave a brief explanation on how it works.
-
-1. All folder start with "0" followed by a letter Since this is my main note system it's value is 0, the letter determines the folder main branch.
-EX: 0A_Template. "0" -> Root notes folder "A" -> First vault folder "Templates" -> Main type of information
-
-2. All the files carry the information from it's hierarchy.
-EX: 0A_1_1_DailyLog, "0" -> Root notes folder "A" -> First vault folder "1" -> first sub-folder in the vault "1" -> First file "DailyLog" -> File Name
 
 </details>
 
